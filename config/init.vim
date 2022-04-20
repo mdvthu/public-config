@@ -1,3 +1,7 @@
+set background=dark
+set mouse=a
+
+filetype plugin indent on
 set number
 
 " YAML file sensible defaults
